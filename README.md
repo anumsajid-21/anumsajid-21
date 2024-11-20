@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anumsajid-21
 - 👀 I’m interested in software development, programming, and contributing to any project through which i can gain experience and learn something.
-- 🌱 I’m currently learning learning Python, web development, and exploring machine learning.
+- 🌱 I’m currently learning Python, web development, and exploring machine learning.
 - 💞️ I’m looking to collaborate on coding projects, open-source contributions, and learning new technologies.
 - 📫 How to reach me: You can reach me via GitHub or through my email(anummalikk21@gmail.com)
 - 😄 Pronouns: She/Her
